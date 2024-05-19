@@ -2,7 +2,7 @@
             "storeHouse": [
                             {"sourceName": "追剧","sourceUrl": "https://gitee.com/luo---bin/luobin/raw/main/luo
 "},
-                            {"sourceName": "蓝色影视","sourceUrl": "https://jihulab.com/future1/February/-/raw/main/xboxb.json"},
+                            {"sourceName": "码点小干货","sourceUrl": "http://120.79.4.185/dc.json"},
                             {"sourceName": "毒盒","sourceUrl": "https://tv.youdu.fan:666"},
                             {"sourceName": "地瓜妹妹","sourceUrl": "https://www.qiqiguai.com/tv/1"},
                             {"sourceName": "天微仓","sourceUrl": "http://qixing.myhkw.com/DC.txt"},
