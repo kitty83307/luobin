@@ -1,0 +1,597 @@
+{
+      "spider": "http://59.153.164.70:5212/f/MXiz/smdyxs.txt",
+        "logo": "http://59.153.164.70:5212/f/Njsj/zhihua.jpg",
+          "wallpaper": "http://失眠的夜.xyz/wallpaper.php",
+            "warningText": "失眠的夜：相遇已是心的诗篇，奈何此刻缘分断弦。",
+              "sites": [
+                      {
+                                "key": "豆瓣",
+                                      "name": "加入QQ群防止失联:609394669",
+                                            "type": 3,
+                                                  "api": "csp_Douban",
+                                                        "style": {
+                                                                    "type": "rect",
+                                                                            "ratio": 0.65
+                                                        },
+                                                              "searchable": 0
+                      },
+                          {
+                                    "key": "提示一",
+                                          "name": "失眠的夜臻享4K",
+                                                "searchable": 0,
+                                                      "filterable": 0,
+                                                            "changeable": 0
+                          },
+                              {
+                                        "key": "配置中心",
+                                              "name": "配置中心(>؂<)",
+                                                    "type": 3,
+                                                          "api": "csp_Config",
+                                                                "searchable": 0,
+                                                                      "changeable": 0,
+                                                                            "indexs": 0,
+                                                                                  "style": {
+                                                                                              "type": "rect",
+                                                                                                      "ratio": 1.618
+                                                                                  }
+                              },
+                                  {
+                                            "key": "预告",
+                                                  "name": "新片预告QwQ",
+                                                        "type": 3,
+                                                              "api": "csp_YGP",
+                                                                    "style": {
+                                                                                "type": "rect",
+                                                                                        "ratio": 0.65
+                                                                    },
+                                                                          "searchable": 0
+                                  },
+                                      {
+                                                "key": "玩偶智能",
+                                                      "name": "玩偶4K｜智能",
+                                                            "type": 3,
+                                                                  "api": "csp_WoGG",
+                                                                        "jar": "http://59.153.164.70:5212/f/P9u3/smdyfty.txt",
+                                                                              "searchable": 1,
+                                                                                    "quickSearch": 1,
+                                                                                          "changeable": 0,
+                                                                                                "ext": {
+                                                                                                            "Cloud-drive": "tvfan/Cloud-drive.txt",
+                                                                                                                    "from": "4k|auto",
+                                                                                                                            "siteUrl": "https://www.wogg.net/",
+                                                                                                                                    "danMu": "弹"
+                                                                                                }
+                                      },
+                                          {
+                                                    "key": "玩偶哥哥",
+                                                          "name": "玩偶4K｜弹幕",
+                                                                "type": 3,
+                                                                      "api": "csp_Wogg",
+                                                                            "quickSearch": 1,
+                                                                                  "changeable": 1,
+                                                                                        "filterable": 1,
+                                                                                              "ext": {
+                                                                                                          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                  "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                          "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                                                                                                                                  "site": "https://wogg.xxooo.cf",
+                                                                                                                                          "danmu": true
+                                                                                              }
+                                          },
+                                              {
+                                                        "key": "木偶哥哥",
+                                                              "name": "木偶4K｜弹幕",
+                                                                    "type": 3,
+                                                                          "api": "csp_Wobg",
+                                                                                "quickSearch": 1,
+                                                                                      "changeable": 1,
+                                                                                            "filterable": 1,
+                                                                                                  "ext": {
+                                                                                                              "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                      "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                              "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                                                                                                                                      "site": "http://mogg.top",
+                                                                                                                                              "danmu": true
+                                                                                                  }
+                                              },
+                                                  {
+                                                            "key": "土豆粉条",
+                                                                  "name": "土豆4K｜弹幕",
+                                                                        "type": 3,
+                                                                              "api": "csp_Wobg",
+                                                                                    "quickSearch": 1,
+                                                                                          "changeable": 1,
+                                                                                                "filterable": 1,
+                                                                                                      "ext": {
+                                                                                                                  "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                  "site": "https://yunpan.yunpay.cc",
+                                                                                                                                          "danmu": true
+                                                                                                      }
+                                                  },
+                                                      {
+                                                                "key": "多多网盘",
+                                                                      "name": "多多4K｜弹幕",
+                                                                            "type": 3,
+                                                                                  "api": "csp_Wobg",
+                                                                                        "quickSearch": 1,
+                                                                                              "changeable": 1,
+                                                                                                    "filterable": 1,
+                                                                                                          "ext": {
+                                                                                                                      "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                              "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                      "site": "https://tv.yydsys.top",
+                                                                                                                                              "danmu": true
+                                                                                                          }
+                                                      },
+                                                          {
+                                                                    "key": "蜡笔小新",
+                                                                          "name": "蜡笔4K｜弹幕",
+                                                                                "type": 3,
+                                                                                      "api": "csp_Wobg",
+                                                                                            "quickSearch": 1,
+                                                                                                  "changeable": 1,
+                                                                                                        "filterable": 1,
+                                                                                                              "ext": {
+                                                                                                                          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                  "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                          "site": "http://labipan.com",
+                                                                                                                                                  "danmu": true
+                                                                                                              }
+                                                          },
+                                                              {
+                                                                        "key": "至臻网盘",
+                                                                              "name": "至臻4K｜弹幕",
+                                                                                    "type": 3,
+                                                                                          "api": "csp_Wobg",
+                                                                                                "quickSearch": 1,
+                                                                                                      "changeable": 1,
+                                                                                                            "filterable": 1,
+                                                                                                                  "ext": {
+                                                                                                                              "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                      "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                              "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                                                                                                                                                      "site": "https://mihdr.top",
+                                                                                                                                                              "danmu": true
+                                                                                                                  }
+                                                              },
+                                                                  {
+                                                                            "key": "欧歌网盘",
+                                                                                  "name": "欧歌4K｜弹幕",
+                                                                                        "type": 3,
+                                                                                              "api": "csp_Wobg",
+                                                                                                    "searchable": 1,
+                                                                                                          "quickSearch": 1,
+                                                                                                                "filterable": 1,
+                                                                                                                      "changeable": 1,
+                                                                                                                            "ext": {
+                                                                                                                                        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                                                                                                                                                                "site": "https://woog.nxog.eu.org",
+                                                                                                                                                                        "danmu": true
+                                                                                                                            }
+                                                                  },
+                                                                      {
+                                                                                "key": "奥秘网盘",
+                                                                                      "name": "奥秘4K｜弹幕",
+                                                                                            "type": 3,
+                                                                                                  "api": "csp_Wobg",
+                                                                                                        "quickSearch": 1,
+                                                                                                              "changeable": 1,
+                                                                                                                    "filterable": 1,
+                                                                                                                          "ext": {
+                                                                                                                                      "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                              "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                      "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                                                                                                                                                              "site": "https://vip.omii.top",
+                                                                                                                                                                      "danmu": true
+                                                                                                                          }
+                                                                      },
+                                                                          {
+                                                                                    "key": "云星日记",
+                                                                                          "name": "云星4K｜弹幕",
+                                                                                                "type": 3,
+                                                                                                      "api": "csp_Wobg",
+                                                                                                            "quickSearch": 1,
+                                                                                                                  "changeable": 1,
+                                                                                                                        "filterable": 1,
+                                                                                                                              "ext": {
+                                                                                                                                          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                  "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                          "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                                                                                                                                                                  "site": "https://4k.4u4.cn",
+                                                                                                                                                                          "danmu": true
+                                                                                                                              }
+                                                                          },
+                                                                              {
+                                                                                        "key": "立播弹幕",
+                                                                                              "name": "立播4K｜网盘",
+                                                                                                    "type": 3,
+                                                                                                          "api": "csp_Libvio",
+                                                                                                                "searchable": 1,
+                                                                                                                      "filterable": 1,
+                                                                                                                            "changeable": 1,
+                                                                                                                                  "ext": {
+                                                                                                                                              "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                      "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                              "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                                                                                                                                                                      "site": "https://libvio.link",
+                                                                                                                                                                              "danmu": true
+                                                                                                                                  }
+                                                                              },
+                                                                                  {
+                                                                                            "key": "失眠的夜4K-AV",
+                                                                                                  "name": "小夜4K｜测试",
+                                                                                                        "type": 3,
+                                                                                                              "api": "http://zoz.xn--c5wa.top/svip/js/drpy2.min.js",
+                                                                                                                    "style": {
+                                                                                                                                "type": "rect",
+                                                                                                                                        "ratio": 0.65
+                                                                                                                    },
+                                                                                                                          "searchable": 1,
+                                                                                                                                "quickSearch": 1,
+                                                                                                                                      "filterable": 1,
+                                                                                                                                            "ext": "http://59.153.164.70:5212/f/QRCo/smdyXY.js"
+                                                                                  },
+                                                                                      {
+                                                                                                "key": "三盘搜网盘",
+                                                                                                      "name": "与诗4K｜搜索",
+                                                                                                            "type": 3,
+                                                                                                                  "api": "http://zoz.xn--c5wa.top/svip/js/drpy2.min.js",
+                                                                                                                        "ext": "http://59.153.164.70:5212/f/RDF5/smdyPT.js",
+                                                                                                                              "searchable": 1,
+                                                                                                                                    "quickSearch": 1,
+                                                                                                                                          "changeable": 0
+                                                                                      },
+                                                                                          {
+                                                                                                    "key": "抠搜网盘",
+                                                                                                          "name": "柑橘4K｜搜索",
+                                                                                                                "type": 3,
+                                                                                                                      "api": "csp_KkSs",
+                                                                                                                            "jar": "http://59.153.164.70:5212/f/P9u3/smdyfty.txt",
+                                                                                                                                  "searchable": 1,
+                                                                                                                                        "quickSearch": 1,
+                                                                                                                                              "changeable": 0,
+                                                                                                                                                    "ext": {
+                                                                                                                                                                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                                                                                                                                                                        "from": "4k|auto"
+                                                                                                                                                    }
+                                                                                          },
+                                                                                              {
+                                                                                                        "key": "影搜",
+                                                                                                              "name": "影搜4K｜搜索",
+                                                                                                                    "type": 3,
+                                                                                                                          "api": "csp_Yingso",
+                                                                                                                                "searchable": 1,
+                                                                                                                                      "filterable": 0,
+                                                                                                                                            "changeable": 1,
+                                                                                                                                                  "ext": {
+                                                                                                                                                              "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                                      "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                                              "danmu": true
+                                                                                                                                                  }
+                                                                                              },
+                                                                                                  {
+                                                                                                            "key": "搜索",
+                                                                                                                  "name": "海棠4K｜弹幕",
+                                                                                                                        "type": 3,
+                                                                                                                              "api": "csp_PanSearch",
+                                                                                                                                    "searchable": 1,
+                                                                                                                                          "filterable": 0,
+                                                                                                                                                "changeable": 1,
+                                                                                                                                                      "ext": {
+                                                                                                                                                                  "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                                          "danmu": true
+                                                                                                                                                      }
+                                                                                                  },
+                                                                                                      {
+                                                                                                                "key": "云云弹幕",
+                                                                                                                      "name": "云云4K｜搜索",
+                                                                                                                            "type": 3,
+                                                                                                                                  "api": "csp_Upys",
+                                                                                                                                        "searchable": 1,
+                                                                                                                                              "filterable": 0,
+                                                                                                                                                    "changeable": 1,
+                                                                                                                                                          "ext": {
+                                                                                                                                                                      "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                                              "danmu": true
+                                                                                                                                                          }
+                                                                                                      },
+                                                                                                          {
+                                                                                                                    "key": "云搜弹幕",
+                                                                                                                          "name": "云搜4K｜搜索",
+                                                                                                                                "type": 3,
+                                                                                                                                      "api": "csp_UpYun",
+                                                                                                                                            "searchable": 1,
+                                                                                                                                                  "filterable": 0,
+                                                                                                                                                        "changeable": 1,
+                                                                                                                                                              "ext": {
+                                                                                                                                                                          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                                                  "danmu": true
+                                                                                                                                                              }
+                                                                                                          },
+                                                                                                              {
+                                                                                                                        "key": "盘搜弹幕",
+                                                                                                                              "name": "盘搜4K｜搜索",
+                                                                                                                                    "type": 3,
+                                                                                                                                          "api": "csp_PanSou",
+                                                                                                                                                "searchable": 1,
+                                                                                                                                                      "filterable": 0,
+                                                                                                                                                            "changeable": 1,
+                                                                                                                                                                  "ext": {
+                                                                                                                                                                              "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                                                      "danmu": true
+                                                                                                                                                                  }
+                                                                                                              },
+                                                                                                                  {
+                                                                                                                            "key": "易搜弹幕",
+                                                                                                                                  "name": "易搜4K｜搜索",
+                                                                                                                                        "type": 3,
+                                                                                                                                              "api": "csp_YiSo",
+                                                                                                                                                    "searchable": 1,
+                                                                                                                                                          "filterable": 0,
+                                                                                                                                                                "changeable": 1,
+                                                                                                                                                                      "ext": {
+                                                                                                                                                                                  "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                                                          "danmu": true,
+                                                                                                                                                                                                  "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
+                                                                                                                                                                      }
+                                                                                                                  },
+                                                                                                                      {
+                                                                                                                                "key": "云盘弹幕",
+                                                                                                                                      "name": "云盘4K｜搜索",
+                                                                                                                                            "type": 3,
+                                                                                                                                                  "api": "csp_Yunpan4k",
+                                                                                                                                                        "searchable": 1,
+                                                                                                                                                              "filterable": 0,
+                                                                                                                                                                    "changeable": 1,
+                                                                                                                                                                          "ext": {
+                                                                                                                                                                                      "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                                                              "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                                                                      "danmu": true
+                                                                                                                                                                          }
+                                                                                                                      },
+                                                                                                                          {
+                                                                                                                                    "key": "米搜弹幕",
+                                                                                                                                          "name": "米搜4K｜搜索",
+                                                                                                                                                "type": 3,
+                                                                                                                                                      "api": "csp_Qkpanso",
+                                                                                                                                                            "searchable": 1,
+                                                                                                                                                                  "filterable": 1,
+                                                                                                                                                                        "changeable": 0,
+                                                                                                                                                                              "ext": {
+                                                                                                                                                                                          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                                                                  "site": "https://www.misou.fun",
+                                                                                                                                                                                                          "danmu": true
+                                                                                                                                                                              }
+                                                                                                                          },
+                                                                                                                              {
+                                                                                                                                        "key": "夸搜弹幕",
+                                                                                                                                              "name": "夸搜4K｜搜索",
+                                                                                                                                                    "type": 3,
+                                                                                                                                                          "api": "csp_Qkso",
+                                                                                                                                                                "searchable": 1,
+                                                                                                                                                                      "filterable": 1,
+                                                                                                                                                                            "changeable": 0,
+                                                                                                                                                                                  "ext": {
+                                                                                                                                                                                              "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                                                                      "danmu": true
+                                                                                                                                                                                  }
+                                                                                                                              },
+                                                                                                                                  {
+                                                                                                                                            "key": "小纸条弹幕",
+                                                                                                                                                  "name": "纸条4K｜搜索",
+                                                                                                                                                        "type": 3,
+                                                                                                                                                              "api": "csp_XiaoZhiTiao",
+                                                                                                                                                                    "searchable": 1,
+                                                                                                                                                                          "filterable": 1,
+                                                                                                                                                                                "changeable": 0,
+                                                                                                                                                                                      "ext": {
+                                                                                                                                                                                                  "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                                                                          "danmu": true
+                                                                                                                                                                                      }
+                                                                                                                                  },
+                                                                                                                                      {
+                                                                                                                                                "key": "夸克趣盘搜弹幕",
+                                                                                                                                                      "name": "趣盘4K｜搜索",
+                                                                                                                                                            "type": 3,
+                                                                                                                                                                  "api": "csp_QuPanSou",
+                                                                                                                                                                        "searchable": 1,
+                                                                                                                                                                              "quickSearch": 1,
+                                                                                                                                                                                    "filterable": 1,
+                                                                                                                                                                                          "changeable": 1,
+                                                                                                                                                                                                "ext": {
+                                                                                                                                                                                                            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                                                                                    "danmu": true
+                                                                                                                                                                                                }
+                                                                                                                                      },
+                                                                                                                                          {
+                                                                                                                                                    "key": "夸克爱盘搜弹幕",
+                                                                                                                                                          "name": "爱盘4K｜搜索",
+                                                                                                                                                                "type": 3,
+                                                                                                                                                                      "api": "csp_AiPanSou",
+                                                                                                                                                                            "searchable": 1,
+                                                                                                                                                                                  "quickSearch": 1,
+                                                                                                                                                                                        "filterable": 1,
+                                                                                                                                                                                              "changeable": 1,
+                                                                                                                                                                                                    "ext": {
+                                                                                                                                                                                                                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                                                                                        "danmu": true
+                                                                                                                                                                                                    }
+                                                                                                                                          },
+                                                                                                                                              {
+                                                                                                                                                        "key": "夸克盘搜弹幕",
+                                                                                                                                                              "name": "夸克4K｜搜索",
+                                                                                                                                                                    "type": 3,
+                                                                                                                                                                          "api": "csp_Qkpanso",
+                                                                                                                                                                                "searchable": 1,
+                                                                                                                                                                                      "filterable": 1,
+                                                                                                                                                                                            "changeable": 1,
+                                                                                                                                                                                                  "ext": {
+                                                                                                                                                                                                              "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                                                                                      "danmu": true
+                                                                                                                                                                                                  }
+                                                                                                                                              },
+                                                                                                                                                  {
+                                                                                                                                                            "key": "我的阿里",
+                                                                                                                                                                  "name": "我的阿里网盘",
+                                                                                                                                                                        "type": 3,
+                                                                                                                                                                              "api": "csp_MyAli",
+                                                                                                                                                                                    "searchable": 0,
+                                                                                                                                                                                          "quickSearch": 0,
+                                                                                                                                                                                                "filterable": 0,
+                                                                                                                                                                                                      "indexs": 0,
+                                                                                                                                                                                                            "ext": {
+                                                                                                                                                                                                                        "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
+                                                                                                                                                                                                            },
+                                                                                                                                                                                                                  "style": {
+                                                                                                                                                                                                                              "type": "list"
+                                                                                                                                                                                                                  }
+                                                                                                                                                  },
+                                                                                                                                                      {
+                                                                                                                                                                "key": "我的夸克",
+                                                                                                                                                                      "name": "我的夸克网盘",
+                                                                                                                                                                            "type": 3,
+                                                                                                                                                                                  "api": "csp_MyQuark",
+                                                                                                                                                                                        "searchable": 0,
+                                                                                                                                                                                              "quickSearch": 0,
+                                                                                                                                                                                                    "filterable": 0,
+                                                                                                                                                                                                          "indexs": 0,
+                                                                                                                                                                                                                "ext": {
+                                                                                                                                                                                                                            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+                                                                                                                                                                                                                },
+                                                                                                                                                                                                                      "style": {
+                                                                                                                                                                                                                                  "type": "list"
+                                                                                                                                                                                                                      }
+                                                                                                                                                      },
+                                                                                                                                                          {
+                                                                                                                                                                    "key": "我的UC",
+                                                                                                                                                                          "name": "我的优汐网盘",
+                                                                                                                                                                                "type": 3,
+                                                                                                                                                                                      "api": "csp_MyUc",
+                                                                                                                                                                                            "searchable": 0,
+                                                                                                                                                                                                  "quickSearch": 0,
+                                                                                                                                                                                                        "filterable": 0,
+                                                                                                                                                                                                              "indexs": 0,
+                                                                                                                                                                                                                    "ext": {
+                                                                                                                                                                                                                                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                          "style": {
+                                                                                                                                                                                                                                      "type": "list"
+                                                                                                                                                                                                                          }
+                                                                                                                                                          },
+                                                                                                                                                              {
+                                                                                                                                                                        "key": "我的本地",
+                                                                                                                                                                              "name": "我的本地视频",
+                                                                                                                                                                                    "type": 3,
+                                                                                                                                                                                          "api": "csp_LocalFile"
+                                                                                                                                                              },
+                                                                                                                                                                  {
+                                                                                                                                                                            "key": "push_agent",
+                                                                                                                                                                                  "name": "手机配置推送",
+                                                                                                                                                                                        "type": 3,
+                                                                                                                                                                                              "api": "csp_Push",
+                                                                                                                                                                                                    "searchable": 0,
+                                                                                                                                                                                                          "filterable": 0,
+                                                                                                                                                                                                                "changeable": 0,
+                                                                                                                                                                                                                      "ext": {
+                                                                                                                                                                                                                                  "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                                                                                                                                                                                                                                          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                                                                                                                                                                                                                                                  "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                                                                                                                                                                                                                                                          "danmu": true
+                                                                                                                                                                                                                      }
+                                                                                                                                                                  }
+              ],
+                "lives": [
+                        {
+                                  "name": "TV",
+                                        "type": 0,
+                                              "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+                                                    "playerType": 1
+                        },
+                            {
+                                      "name": "IPV6",
+                                            "type": 0,
+                                                  "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+                                                        "playerType": 1
+                            }
+                ]
+}
+                            }
+                        }
+                ]
+                                                                                                                                                                                                                      }
+                                                                                                                                                                  }
+                                                                                                                                                              }
+                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                    }
+                                                                                                                                                          }
+                                                                                                                                                                                                                      }
+                                                                                                                                                                                                                }
+                                                                                                                                                      }
+                                                                                                                                                                                                                  }
+                                                                                                                                                                                                            }
+                                                                                                                                                  }
+                                                                                                                                                                                                  }
+                                                                                                                                              }
+                                                                                                                                                                                                    }
+                                                                                                                                          }
+                                                                                                                                                                                                }
+                                                                                                                                      }
+                                                                                                                                                                                      }
+                                                                                                                                  }
+                                                                                                                                                                                  }
+                                                                                                                              }
+                                                                                                                                                                              }
+                                                                                                                          }
+                                                                                                                                                                          }
+                                                                                                                      }
+                                                                                                                                                                      }
+                                                                                                                  }
+                                                                                                                                                                  }
+                                                                                                              }
+                                                                                                                                                              }
+                                                                                                          }
+                                                                                                                                                          }
+                                                                                                      }
+                                                                                                                                                      }
+                                                                                                  }
+                                                                                                                                                  }
+                                                                                              }
+                                                                                                                                                    }
+                                                                                          }
+                                                                                      }
+                                                                                                                    }
+                                                                                  }
+                                                                                                                                  }
+                                                                              }
+                                                                                                                              }
+                                                                          }
+                                                                                                                          }
+                                                                      }
+                                                                                                                            }
+                                                                  }
+                                                                                                                  }
+                                                              }
+                                                                                                              }
+                                                          }
+                                                                                                          }
+                                                      }
+                                                                                                      }
+                                                  }
+                                                                                                  }
+                                              }
+                                                                                              }
+                                          }
+                                                                                                }
+                                      }
+                                                                    }
+                                  }
+                                                                                  }
+                              }
+                          }
+                                                        }
+                      }
+              ]
+}
